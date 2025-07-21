@@ -1,3 +1,5 @@
+![header](header/header.gif)
+
 ## Hey!! Nice to see you 👋
 
 <!--
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔥 I’m currently learning next js and laravel framwork
