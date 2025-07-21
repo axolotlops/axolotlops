@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 
 <br> <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="img/left.gif" style="width: 60px;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=axolotlops&theme=dark&hide_border=false" style="max-width: 400px; width: 100%;" />
-  <img src="img/right.gif" style="width: 60px;" />
-</div>
+<p align="center">
+  <img src="img/left.gif" width="60" style="vertical-align: middle;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=axolotlops&theme=dark&hide_border=false" style="height: 120px; vertical-align: middle;" />
+  <img src="img/right.gif" width="60" style="vertical-align: middle;" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
