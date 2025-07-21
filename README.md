@@ -1,4 +1,7 @@
-![header](header/header.gif)
+<!-- ![header](header/header.gif) -->
+<p align="center">
+  <img src="header/header.gif" alt="header" />
+</p>
 
 ## Hey!! Nice to see you 👋
 
