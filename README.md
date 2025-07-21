@@ -20,8 +20,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔥 I’m currently learning next js and laravel framwork
+###### 🔥 I’m currently learning <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,figma,arduino,androidstudio,vscode&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,figma,php,androidstudio,vscode,windows&perline=4)](https://skillicons.dev)
+<br>
+
+## 🗄️ Databases
+
+[![Data bases](https://skillicons.dev/icons?i=mysql,firebase&perline=4)](https://skillicons.dev)
