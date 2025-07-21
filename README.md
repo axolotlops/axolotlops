@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="img/left.gif" width="200" style="vertical-align: middle;" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=axolotlops&theme=dark&hide_border=false" width="500" style="vertical-align: middle;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=axolotlops&theme=dark&hide_border=false" width="400" style="vertical-align: middle;" />
   <img src="img/right.gif" width="200" style="vertical-align: middle;" />
 </p>
 
