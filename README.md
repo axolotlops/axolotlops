@@ -3,7 +3,13 @@
   <img src="header/header.gif" alt="header" />
 </p>
 
-## Hey!! Nice to see you 👋
+### 👋 Hi, I’m **Diza**
+
+- 💻 Fresh graduate from Software Engineering (RPL)
+- 🧭 I love **adventure**, **exploration**, and building something new
+- 🚀 Eager to learn, collaborate, and grow in the tech ecosystem
+- 🎯 Currently focusing on **Android Development** with **Kotlin**
+- 📚 Also exploring backend tech, database design, and cloud integration
 
 <!--
 **axolotlops/axolotlops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
