@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 [![Data bases](https://skillicons.dev/icons?i=mysql,firebase&perline=4)](https://skillicons.dev)
 
-<br> <br>
+<br>
 
 <p align="center">
   <img src="img/left.gif" width="200" style="vertical-align: middle;" />
@@ -56,5 +56,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/axolotlops/axolotlops/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/axolotlops/axolotlops/output/pacman-contribution-graph.svg">
 </picture>
-
-###
