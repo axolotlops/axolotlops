@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <br> <br>
 
 <p align="center">
-  <img src="img/left.gif" width="60" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=axolotlops&theme=dark&hide_border=false" style="height: 120px;" />
-  <img src="img/right.gif" width="60" />
+  <img src="img/left.gif" width="100" style="vertical-align: middle;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=axolotlops&theme=dark&hide_border=false" width="500" style="vertical-align: middle;" />
+  <img src="img/right.gif" width="100" style="vertical-align: middle;" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
