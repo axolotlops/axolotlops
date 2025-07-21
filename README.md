@@ -3,6 +3,10 @@
   <img src="header/header.gif" alt="header" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Exploring+Code+like+an+Adventure!;Android+Dev+%7C+Open+to+Collaborate+%7C+Growth+Mindset" alt="Typing SVG" />
+</p>
+
 ### 👋 Hi, I’m **Diza**
 
 - 💻 Fresh graduate from Software Engineering (RPL)
@@ -10,10 +14,6 @@
 - 🚀 Eager to learn, collaborate, and grow in the tech ecosystem
 - 🎯 Currently focusing on **Android Development** with **Kotlin**
 - 📚 Also exploring backend tech, database design, and cloud integration
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Exploring+Code+like+an+Adventure!;Android+Dev+%7C+Open+to+Collaborate+%7C+Growth+Mindset" alt="Typing SVG" />
-</p>
 
 <!--
 **axolotlops/axolotlops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
