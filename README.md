@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔥 I’m currently learning next js and laravel framwork
+
+### 💻 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,figma,arduino,androidstudio,vscode&perline=4)](https://skillicons.dev)
