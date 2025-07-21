@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
-## 💻 Tech Stack
+## 💻 I code with
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,kotlin,figma,php,androidstudio,vscode,windows&perline=4)](https://skillicons.dev)
 <br>
@@ -42,3 +42,13 @@ Here are some ideas to get you started:
 ## 🗄️ Databases
 
 [![Data bases](https://skillicons.dev/icons?i=mysql,firebase&perline=4)](https://skillicons.dev)
+
+<br> <br>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="img/left.gif" style="width: 60px;" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=axolotlops&theme=dark&hide_border=false" style="max-width: 400px; width: 100%;" />
+  <img src="img/right.gif" style="width: 60px;" />
+</div>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
