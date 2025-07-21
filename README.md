@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###### 🔥 I’m currently learning <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+###### 🔥 I’m currently learning
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 ## 💻 Tech Stack
 
